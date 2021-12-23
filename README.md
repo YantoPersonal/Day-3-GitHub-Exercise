@@ -17,7 +17,7 @@ The file should have the following methods:
 ## Part 3) Branches and Uploading
 Updating the Code in Calculator.py should not be done on the main branch. You should create a seperate branch feature-calculator. Once you're happy upload feature-calculator to GitHub. This way someone else (theoretically) can give you the go ahead to say your code is working. Once happy, commit the changes to the main branch. Don't delete the feature-calculator branch, because you could come back to update this code again later on with more functionality, and thus need this branch again.
 
-Once you've created done that, create another branch feature-ratio_calc that modifies the Ratio.py to take two user numbers as input, and importing your ratio function from your Calculator module, returns the ratio and and prints the result.
+Once you've created done that, create another branch feature-ratio_calc that modifies the calculate ratio.py to take two user numbers as input, and importing your ratio function from your Calculator module, returns the ratio and and prints the result.
 
 
 
