@@ -17,8 +17,6 @@ The class should have the following methods:
   - Modular Arithmetic
 
 ## Part 3) Branches and Uploading
-Updating the Code in Calculator.py should not be done on the main branch. You should create a seperate branch feature-calculator. Once you're happy upload feature-calculator to GitHub. This way someone else (theoretically) can give you the go ahead to say your code is working. Once happy, commit the changes to the main branch.
+Updating the Code in Calculator.py should not be done on the main branch. You should create a seperate branch feature-calculator. Once you're happy upload feature-calculator to GitHub. This way someone else (theoretically) can give you the go ahead to say your code is working. Once happy, commit the changes to the main branch. Don't delete the feature-calculator branch, because you could come back to update this code again later on with more functionality, and thus need this branch again.
 
-Don't delete the feature-calculator branch, because you could come back to update this code again later on with more functionality, and thus need this branch again.
-
-- Ieuan
+Ieuan
