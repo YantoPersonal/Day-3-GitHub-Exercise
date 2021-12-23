@@ -6,17 +6,21 @@ Welcome to the final exercise of Day 3.
   -  Create a Local Repository and connect it to your forked remote repository
   -  Make a pull request to Pull the Code from the remote repository to your local repository
 ## Part 2) - Changing the Code
-Calculator.py currently takes two numbers and adds them together, the code is very basic. We would like to create a class based approach.
-The class should store three things; the two numbers the user inputted, and the output of an operation.
-
-The class should have the following methods:
+Calculator.py currently takes two numbers and adds them together, the code is very basic. We would like to create functional code that adds more features.
+The file should have the following methods:
   - Addition
   - Subtraction
   - Multiplication
   - Division
-  - Modular Arithmetic
+  - Ratio - Returns either as a decimal or percentage based on parameter. Also should use Addition function as part of ratio function
 
 ## Part 3) Branches and Uploading
 Updating the Code in Calculator.py should not be done on the main branch. You should create a seperate branch feature-calculator. Once you're happy upload feature-calculator to GitHub. This way someone else (theoretically) can give you the go ahead to say your code is working. Once happy, commit the changes to the main branch. Don't delete the feature-calculator branch, because you could come back to update this code again later on with more functionality, and thus need this branch again.
+
+Once you've created done that, create another branch feature-ratio_calc that modifies the Ratio.py to take two user numbers as input, and importing your ratio function from your Calculator module, returns the ratio and and prints the result.
+
+
+
+You can make up your own exercises, or play with existing examples like the Goblins vs. Humans, and upload it to GitHub
 
 Ieuan
